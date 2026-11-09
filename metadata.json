@@ -1,0 +1,6 @@
+{
+  "name": "EduCS Bilingual - Tiếng Anh Tin Học Song Ngữ 6-12",
+  "description": "Nền tảng ôn luyện 4 kỹ năng Tiếng Anh giảng dạy Tin học dành cho giáo viên song ngữ, bám sát SGK 6-12, ngân hàng thuật ngữ, sinh đề tự động và đánh giá AI.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
